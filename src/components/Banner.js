@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 import React from "react";
 // images
 import logo from "../assets/avatar.svg";
